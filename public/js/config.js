@@ -10,4 +10,4 @@ var __refresh = 300;
 // the default language
 // set false to disable language support and show only english,
 // or set null to use visitor's browser language
-var __language = null;
+var __language = false;
